@@ -8,7 +8,7 @@ I am a Ph.D student at the Central European University's Doctoral School of Poli
 
 I received a Master in Public Policy from the Hertie School of Governance in Berlin, and a BA in Political Science from the University of Bucharest. 
 
-Here is my [Full CV]()https://dsps.ceu.edu/sites/pds.ceu.hu/files/profilephd/files/1403/cvsurdeahernea.pdf), and my [Research Summary](https://dsps.ceu.edu/people/vlad-surdea-hernea). 
+Here is my [Full CV](https://dsps.ceu.edu/sites/pds.ceu.hu/files/profilephd/files/1403/cvsurdeahernea.pdf), and my [Research Summary](https://dsps.ceu.edu/people/vlad-surdea-hernea). 
 
 ## Contact
 
