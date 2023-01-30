@@ -1,7 +1,3 @@
-+++
-title = "Homepage"
-+++
-
 ## Hello!
 
 I am a Ph.D student at the Central European University's Doctoral School of Political Science, Public Policy and International Relations. Substantively, my research focuses on the political economy of climate and energy policy. More generally, I am interested in causal inference, applied economics and econometrics. 
